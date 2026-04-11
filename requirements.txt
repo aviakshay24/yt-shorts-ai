@@ -1,5 +1,4 @@
+yt-dlp>=2026.01.29
 streamlit
-yt-dlp
 openai-whisper
-ffmpeg-python
-torch
+setuptools
